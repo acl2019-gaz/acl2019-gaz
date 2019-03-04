@@ -1,0 +1,352 @@
+[
+    {
+        "subject": "MATCH",
+        "predicate": "city",
+        "object": "CITY"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "competition",
+        "object": "COMPETITION"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "date",
+        "object": "MATCH_DATE"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "score",
+        "object": "SCORE"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "round",
+        "object": "ROUND"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "isWinner",
+        "object": "TRUE"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "gameweek",
+        "object": "GAMEWEEK"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "referee",
+        "object": "REFEREE"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "firstAssistant",
+        "object": "FIRST_ASSISTANT"
+    },
+    {
+        "subject": "MATCH",
+        "predicate": "secondAssistant",
+        "object": "SECOND_ASSISTANT"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "isLocal",
+        "object": "TRUE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "isAway",
+        "object": "TRUE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "rankZone",
+        "object": "RANK_ZONE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "formation",
+        "object": "FORMATION"
+    },
+    {
+        "subject": "TEAM-1",
+        "predicate": "formation",
+        "object": "FORMATION-1"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "coach",
+        "object": "COACH"
+    },
+    {
+        "subject": "TEAM-1",
+        "predicate": "coach",
+        "object": "COACH-1"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "averagePossessionPercentInSeason",
+        "object": "POSSESSION"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "matchesWonPercentageInSeason",
+        "object": "WONMATCHES"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "goalsAverageInSeason",
+        "object": "GOALS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "concededGoalsAverageInSeason",
+        "object": "GOALS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "concededGoalsAverageInSeason",
+        "object": "GOALS-1"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "winsInLastFourGames",
+        "object": "WONMATCHES"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "goalsInLastFourGames",
+        "object": "GOALS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "concededGoalsInLastFourGames",
+        "object": "GOALS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "concededGoalsInLastFourGames",
+        "object": "GOALS-1"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "scoredWithScore",
+        "object": "SCORE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "scoredAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "doubleGoal",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "hatTrick",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER-1",
+        "predicate": "assistTo",
+        "object": "PLAYER"
+    },
+    {
+        "subject": "PLAYER-1",
+        "predicate": "assistCrossTo",
+        "object": "PLAYER"
+    },
+    {
+        "subject": "PLAYER-1",
+        "predicate": "assistHeadPassTo",
+        "object": "PLAYER"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "scoredHeadBall",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "scoredFreeKick",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "scoredPenalty",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "scoredOwnGoal",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "equalize",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "reducedTheGap",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "increasedTheGap",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "takeLead",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "takeBackLead",
+        "object": "TRUE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "injuryAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "yellowCardAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "secondYellowCardAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "redCardAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "violentFoulAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "timeLostFoulAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "sub",
+        "object": "PLAYER-1"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "subInAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER-1",
+        "predicate": "subOutAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "penaltyFailedAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "dangerouslyLostBallAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "opportunityAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "saveAttemptAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "shots",
+        "object": "SHOTS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "yellowCards",
+        "object": "YELLOW_CARDS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "redCards",
+        "object": "RED_CARDS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "fouls",
+        "object": "FOULS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "offsides",
+        "object": "OFFSIDES"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "crosses",
+        "object": "CROSSES"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "corners",
+        "object": "CORNERS"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "dribbles",
+        "object": "DRIBBLES"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "shotsOnTargetPercent",
+        "object": "SHOTS_ON_TARGET"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "possessionPercent",
+        "object": "POSSESSION"
+    },
+    {
+        "subject": "PLAYER",
+        "predicate": "scoredFromOutsideBox",
+        "object": "TRUE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "takeLeadWithScore",
+        "object": "SCORE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "takeLeadAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "takeBackLeadAt",
+        "object": "MINUTE"
+    },
+    {
+        "subject": "TEAM",
+        "predicate": "takeBackLeadWithScore",
+        "object": "SCORE"
+    }
+]
